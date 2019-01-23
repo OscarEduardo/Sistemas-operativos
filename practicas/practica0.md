@@ -16,3 +16,5 @@ Utilizamos las herramientas necesarias para compilar y correr nuestros, comenzam
 
 ## Commit
 https://github.com/OscarEduardo/Sistemas-operativos/commit/daebacc6c7dff111b06cb2415a9d65846d39bf8c
+
+https://github.com/OscarEduardo/Sistemas-operativos/commit/fa9e9b47fa9b10eaa7f7143fe1c5ae7fb6ed9071
