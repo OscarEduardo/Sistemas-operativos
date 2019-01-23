@@ -1,8 +1,8 @@
 # Practica 0
-##Objetivo:
+## Objetivo:
 compilar y correr xv6
 
-##Herramientas
+## Herramientas
 gcc -> compilador
 git -> compartir el codigo
 make -> automatizar
