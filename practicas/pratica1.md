@@ -1,12 +1,12 @@
-##Objetivo 
+## Objetivo 
 Crear dos llamaas a sistema una para apagar y otra para reiniciar. Y crear sus respectivos programas.
 
-##Herramientas
+## Herramientas
 git
 make
 gcc
 
-##Conceptos 
+## Conceptos 
 1) Llamadas a sistema 
 + La forma que el kernel (SO) da acceso al HW
 + Se implementa mediante interrupciones de software (trap), ie,
