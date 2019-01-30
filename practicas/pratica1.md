@@ -2,8 +2,8 @@
 Crear dos llamaas a sistema una para apagar y otra para reiniciar. Y crear sus respectivos programas.
 
 ## Herramientas
-git
-make
+git,
+make,
 gcc
 
 ## Conceptos 
