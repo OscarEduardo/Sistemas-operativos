@@ -22,3 +22,5 @@ la aplicacion se interrumpe para que el kernel se ejecute
 ## Que aprendi:
 
 ## URL del commit:
+
+https://github.com/OscarEduardo/Sistemas-operativos/commit/f64f42f3e9ee1a1edc28aa6afc4449760d3ecdb5
