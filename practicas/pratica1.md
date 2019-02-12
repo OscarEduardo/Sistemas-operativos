@@ -1,5 +1,5 @@
 ## Objetivo 
-Crear dos llamaas a sistema una para apagar y otra para reiniciar. Y crear sus respectivos programas.
+Crear dos llamadas a sistema una para apagar y otra para reiniciar. Y crear sus respectivos programas.
 
 ## Herramientas
 git,
@@ -20,6 +20,11 @@ la aplicacion se interrumpe para que el kernel se ejecute
 + Es la forma que el HW interactua con el CPU
 
 ## Que aprendi:
+Se crearon los metodos juntos con los archivos necesario para poder interactuar con el sistema operativo 
+y poder dar los comandos para hacer un reinicio y un apagado de nuestro sistema, con esto tambien vimos de que 
+manera hacer la investigacion para poder conocer el comando y la direccion de memoria que se tenia que modificar 
+para poder realizar dichas llamadas al sistema.
+
 
 ## URL del commit:
 
