@@ -17,3 +17,4 @@ gcc
 ## Que aprendi
 
 ## Url del commit
+https://github.com/OscarEduardo/Sistemas-operativos/commit/8de14cc805f389867d6df923594df20b68a06d54
