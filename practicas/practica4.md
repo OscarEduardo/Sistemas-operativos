@@ -20,6 +20,8 @@ gcc
 ## Que aprendí
 
 ## url commit
+Commit 4_1
+https://github.com/OscarEduardo/Sistemas-operativos/commit/705f8280d855f5d40cb153235ac3a164d5518924
 
 ## como se relaciona con lo conceptos anteriores
 llamadas a sistema, procesos
