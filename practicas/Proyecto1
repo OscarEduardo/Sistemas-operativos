@@ -1,3 +1,41 @@
+## Objetivo
+
+Comprender el funcionamiento de las llamadas sistema y cómo se implementan en XV6
+
+*Modifica el kernel de xv6 para que imprima cada vez que una llamada a sistema se emplee se
+imprima una línea con el nombre de la llamada a sistema y su número.
+
+*Agregar otra llamada a sistema (date) a xv6 que consulte el reloj de la computadora y devuelva
+el tiempo en formato UTC.Desde el punto de vista del usuario la función sería: date(struct rtcdate *r);
+
+# Pistas
+*modificar la función syscall() en syscall.c para antes de ejecutar la función imprimir,
+tener un arreglo con los nombres de las funciones.
+*Utilizar la función cmostime() (definida en lapic.c) para obtener el valor de la hora actual. En el
+archivo date.h está definida la estructura usada por esa función.
 
 
-parte 1: https://github.com/OscarEduardo/Sistemas-operativos/commit/6046e430743f03cdecc8370464ca04a091058b87
+## Herramientas
+git
+make
+xv6
+
+## Conceptos aplicados:
+
+Llamadas a sistema
+Codigo fuente
+aplicaciones de sistema
+Aplicaciones de usuario
+Registros de llamadas a sistemas
+
+## ¿Qué aprendí durante el desarrollo del proyecto?
+Desarrollo de aplicación de usuario por medio de llamada a sistema relacionada con un registro en donde se conecta con el sistema operativo(Segunda parte del proyecto) además de conocer las llamadas a sistema necesarias parala ejecución del sistema operativo(Primera parte del proyecto)
+
+## ¿Cómo se relacionan estos nuevos conceptos con los vistos anteriormente?
+Llamadas a sistema
+Llamadas a sistema que suceden del init
+Aplicación de usuario
+
+##  URL commit
+Parte 1: https://github.com/OscarEduardo/Sistemas-operativos/commit/6046e430743f03cdecc8370464ca04a091058b87
+Parte 2: https://github.com/OscarEduardo/Sistemas-operativos/commit/cda2cd66a20dee4cfb7c6f2dfbd6a6f6d639ce65
