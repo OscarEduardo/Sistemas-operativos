@@ -27,3 +27,4 @@ git
   - Productor/Consumidor. Ocurre cuando los datos se pueden sobreescribir.
  
  # URL de commit
+https://github.com/OscarEduardo/Sistemas-operativos/commit/30c90759e4d043746a219831f4dfc655f1db84d8
